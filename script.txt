@@ -1,0 +1,68 @@
+1. What is scrum?
+Scrum is framework methodology (philosophy?) that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+
+Scrum is a tool that help you provide agile development.
+
+2. In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+	A Product Owner orders the work for a complex problem into a Product Backlog.
+        The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
+        The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
+        Repeat.
+
+3. Here we got product log - it is a list of values that product owner and stakeholders want to implement ever. Product owner sort it by priority.
+Development by scrum is iterative process. Creating of product is divided in equal descrete periods of time called 'sprints'. Time of each sprint should be determined before start of development, it is required because of future time management.
+
+For every sprint sprint meeting organized. Team, scrum master and product owner are choosing goals for sprint that they COULD do in in one period (in one iteration - i.e - sprint). They take a discussion about what they learned from previous iteration, what was changed during last spint retrospective and what was added to product backlog.
+
+Then they start creating plan for this sprint - what should be done, each member of team tells what he could do for reaching sprint goals, and in discussion they distribute responsibilities. 
+
+During the sprint there is daily scrum (daily meeting/daily stand-up). Each member of team answering three questions: 
+	1) What work did he done during last day?
+	2) What he should do next?
+	3) What he needs to implement next part?
+Daily meeting is organized not only for controlling. It is needed for synchronisation of all the team.
+
+Then when the time of sprint comes to end, team and product owner again comes together to organise Sprint review. The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed. 
+
+Then sprint retrospective organised. The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
+
+4. Scrum have three basic artifacts:
+	1) Product backlog - I mentioned it earlier
+	2) The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
+	3) An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
+Work cannot be considered part of an Increment unless it meets the Definition of Done.
+
+5. Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+● For the Product Backlog it is the Product Goal.
+● For the Sprint Backlog it is the Sprint Goal.
+● For the Increment it is the Definition of Done.
+And if with product and sprint goal everything is more clear, its needed ot stop on defenition of done.
+The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+The moment a Product Backlog item meets the Definition of Done, an Increment is born. Increment is ready when you can sent it to users.
+
+Sometimes situations arise when the team says that the product is ready, the product owner says "well then lets send it to users?", and the team says, "Yea, but we need to set up a connection with the server, delete test cases.." and oher work that shows that increment isn't ready. To avoid that we should clearly set up defenition of done before starting sprint.
+
+6. Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
+Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+7. Transparency
+The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
+Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+
+8. Inspection
+The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
+Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+
+9. Adaptation
+If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
+Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+
+10. Successful use of Scrum depends on people becoming more proficient in living five values:
+...values from slide
+These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+
+11. So that's all about my presentation. For more info check links in description, i left useful video about agile development and link to basic scrumguide.
+Thank you for watching!
